@@ -38,25 +38,6 @@ To get a local copy up and running, follow these steps:
    ```sh
    git clone https://github.com/shivam1133344/portfolio.git
 
-
-   ### navigate to the project directory
-   cd portfolio
-
-   Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request. Please follow these steps:
-
-Fork the repository.
-Create a new branch:
-sh
-git checkout -b feature/YourFeature
-Make your changes.
-Commit your changes:
-sh
-git commit -m 'Add some feature'
-Push to the branch:
-git push origin feature/YourFeature
-Open a pull request.
-License
-Distributed under the MIT License. See LICENSE for more information.
 ###Contact
 Shivam - pathaniashiv10304@gmail.com
 
