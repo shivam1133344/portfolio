@@ -37,8 +37,11 @@ To get a local copy up and running, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/shivam1133344/portfolio.git
+
+
    ### navigate to the project directory
    cd portfolio
+
    Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request. Please follow these steps:
 
 Fork the repository.
