@@ -3,9 +3,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-
-nav ul {
+     box-sizing: border-box;
+    background-img:url('gym.jpg');
+    background-size:cover;
+    background-position:center;
+  
+    nav ul {
     list-style-type: none;
     background-color: #333;
     margin: 0;
