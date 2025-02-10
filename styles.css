@@ -4,9 +4,7 @@ body {
     margin: 0;
     padding: 0;
      box-sizing: border-box;
-    background-img:url('gym.jpg');
-    background-size:cover;
-    background-position:center;
+ 
   
     nav ul {
     list-style-type: none;
